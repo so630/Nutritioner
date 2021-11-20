@@ -1,16 +1,7 @@
 # nutritioner
 
-A Nutrition app with many functionalities
+A Nutrition app with functionality of searching for recipes
 
-## Getting Started
+# Installation
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sadly, I could not deploy this app, however you can clone this repository, open it in android studio and run it and it will work just fine.
